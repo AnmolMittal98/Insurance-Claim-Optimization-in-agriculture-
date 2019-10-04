@@ -1,2 +1,2 @@
-# FARM FIRE IDENTIFICATION FOR INSURANCE OPTIMIZATION
+# Crop Field Fire Identifier Using Computer Vision and IoT: Insurance Claim Optimization
 
